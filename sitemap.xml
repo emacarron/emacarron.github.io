@@ -1,12 +1,90 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://emacarron.github.io/blog/2012/03/11/mybatis-3.1.0-released/</loc>
+        <lastmod>2013-11-23T10:25:00+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://emacarron.github.io/blog/2012/03/12/mybatis-spring-1.1.0-released/</loc>
+        <lastmod>2013-11-23T10:25:00+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://emacarron.github.io/blog/2012/04/11/mybatis-guice-3.3-released/</loc>
+        <lastmod>2013-11-23T10:25:00+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://emacarron.github.io/blog/2012/04/16/mybatis-3.1.1-released/</loc>
+        <lastmod>2013-11-23T10:25:00+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://emacarron.github.io/blog/2012/04/22/mybatis-spring-1.1.1-released/</loc>
+        <lastmod>2013-11-23T10:25:00+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://emacarron.github.io/blog/2012/04/24/mybatis-memcached-module-1.0.0-beta1-available/
+        </loc>
+        <lastmod>2013-11-23T10:25:00+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://emacarron.github.io/blog/2012/05/29/mybatis-for-scala-%28beta%29-available/
+        </loc>
+        <lastmod>2013-11-23T10:25:00+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://emacarron.github.io/blog/2012/07/01/happy-birthday-to-mybatis-10-years/</loc>
+        <lastmod>2013-11-23T10:25:00+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://emacarron.github.io/blog/2012/07/26/%5Bann%5D-mybatis-for-scala-beta2-released/
+        </loc>
+        <lastmod>2013-11-23T10:25:00+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://emacarron.github.io/blog/2012/08/08/mybatis-for-scala-%28beta2%29-code-samples-moved-to-github/
+        </loc>
+        <lastmod>2013-11-23T10:25:00+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://emacarron.github.io/blog/2012/09/09/schema-migrations-3.1.0-released/</loc>
+        <lastmod>2013-11-23T10:25:00+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://emacarron.github.io/blog/2013/02/21/mybatis-3.2.0-released/</loc>
+        <lastmod>2013-11-23T10:25:00+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://emacarron.github.io/blog/2013/02/21/mybatis-spring-1.2.0-released/</loc>
+        <lastmod>2013-11-23T10:25:00+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://emacarron.github.io/blog/2013/03/10/mybatis-3.2.1-released/</loc>
+        <lastmod>2013-11-23T10:25:00+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://emacarron.github.io/blog/2013/04/02/mybatis-3.2.2-released/</loc>
+        <lastmod>2013-11-23T10:25:00+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://emacarron.github.io/blog/2013/04/30/mybatis-velocity-scripting-1.0-released/
+        </loc>
+        <lastmod>2013-11-23T10:25:00+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://emacarron.github.io/blog/2013/05/16/www.mybatis.org-site-is-down/</loc>
+        <lastmod>2013-11-23T10:25:00+01:00</lastmod>
+    </url>
+    <url>
         <loc>http://emacarron.github.io/blog/archives/</loc>
-        <lastmod>2013-11-23T09:25:44+01:00</lastmod>
+        <lastmod>2013-11-23T10:25:00+01:00</lastmod>
     </url>
     <url>
         <loc>http://emacarron.github.io/</loc>
-        <lastmod>2013-11-23T09:25:44+01:00</lastmod>
+        <lastmod>2013-11-23T10:25:00+01:00</lastmod>
     </url>
     <url>
         <loc>http://emacarron.github.io/robots.txt</loc>
