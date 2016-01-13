@@ -4,7 +4,8 @@
 <body> 
   <script>
   if (location.protocol != "http:") {
-       location = 'http//' + window.location.hostname + '/index.html';
+       nextUrl = window.location.replace('/http', '/https');
+       location.href = nextUrl;
   }
   </script>
   <p>Loading...</a>.</p> 
