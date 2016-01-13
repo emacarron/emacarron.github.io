@@ -2,12 +2,7 @@
 <head>      
 </head>    
 <body> 
-  <script>
-  if (location.protocol != "http:") {
-       nextUrl = window.location.href.replace('https', 'http');
-       document.write('Loading' + nextUrl + '...');
-       location = nextUrl;
-  }
-  </script>
+   <script>location = 'http://' + location.hostname + '/nwbc';</script>
 </body>  
-</html> 
+</html>
+
