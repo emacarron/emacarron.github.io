@@ -4,8 +4,7 @@
 <body> 
   <script>
   if (location.protocol != "http:") {
-       nextUrl = window.location
-       //nextUrl.replace('/https', '/http');
+       nextUrl = window.location.href.replace('/https', '/http');
        document.write(nextUrl);
   }
   </script>
